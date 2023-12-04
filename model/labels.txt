@@ -1,0 +1,12 @@
+0 Closed_fist
+1 Four_finger
+2 Open_palm_point
+3 Open_palm_FHV
+4 Open_palm_BHV
+5 Point_finger
+6 Side_open_palmH
+7 Thumb_up
+8 Two_finger
+9 Open_palm_FHH
+10 Open_palm_BHH
+11 Side_open_palmV
